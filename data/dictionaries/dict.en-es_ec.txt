@@ -1,0 +1,2078 @@
+jacket chaqueta
+jacket "saco de terno"
+cardigan saco
+cardigan suéter
+t-shirt camiseta
+sweater buzo
+sweater suéter
+windbreaker chompa
+windbreaker rompevientos
+overalls mameluco
+overalls overol
+poncho poncho
+jeans jeans
+overcoat abrigo
+shawl chal
+shawl chalina
+shawl estola
+pajamas "la pijama"
+pajamas "la pishama"
+pajamas "la piyama"
+skirt falda
+ribbon cintillo
+"track suit" calentador
+hood capucha
+"bow tie" "corbata de lazo"
+earrings aretes
+hairnet "malla para el pelo"
+ring anillo
+cufflinks gemelos
+mascara rímel
+"tape measure" "cinta métrica"
+suspenders tirantes
+socks medias
+slippers pantuflas
+heel "taco alto"
+underskirt enagua
+petticoart combinación
+panties calzón
+panties calzonarios
+panties panti
+brassiere sostén
+zipper cierre
+"safety pin" imperdible
+glasses lentes
+shorts calzoncillo
+swimsuit "terno de baño"
+swimsuit "traje de baño"
+"sports shoes" zapatillas
+"sports shoes" "zapatillas deportivas"
+folder carpeta
+folder folder
+valise portafolios
+bag bolso
+suitcase maleta
+handbag cartera
+rucksack mochila
+"dish rack" escurridor
+dishwasher "lavadora de platos"
+cupboard alacena
+faucet llave
+sink lavabo
+cooker cocina
+refrigerator refri
+refrigerator refrigeradora
+pot olla
+"frying pan" "el sartén"
+dishcloth trapito
+dishcloth trapo
+straw sorbete
+coaster portavasos
+"aluminum wheel" "papel aluminio"
+"aluminum wheel" "papel de aluminio"
+"thin crusted bread" "pan de tajas"
+"thin crusted bread" "pan tajado"
+"french loasus" palanqueta
+croissant cachito
+croissant cacho
+roll pancito
+tart cake
+tart dulce
+tart pastel
+popcorn canguil
+"small bottle" bote
+"small bottle" frasco
+scales pesa
+"gas cylinder" tanque
+bucket balde
+bucket cubeta
+"baby's bottle" mamadera
+"baby's bottle" teta
+teat biberón
+teat chupón
+lighter encendedor
+lighter fosforera
+"living room" sala
+"living room" salita
+"coffee table" "mesa de centro"
+"coffee table" "mesita de centro"
+"remote control" control
+earphones audífonos
+earphones auriculares
+baffle parlantes
+switch interruptor
+"video cassette" video
+radio "el radio"
+bedroom cuarto
+bedroom dormitorio
+chandelier lámpara
+chandelier "lámpara de dormitorio"
+chandelier "lámpara de la mesita de noche"
+chandelier "lámpara de mesa"
+chandelier "lámpara de velador"
+"night table" "mesa de noche"
+"night table" "mesa de velador"
+"night table" velador
+blanket cobija
+blanket frazada
+bedspread colcha
+bedspread cubrecama
+bedspread edredón
+bedspread sobrecama
+"chest of drawers" cómoda
+"chest of drawers" peinadora
+hanger armador
+washbasin lavabo
+tank tanque
+tank "tanque del agua"
+tank "tanque del baño"
+tank "tanque del inodoro"
+bowl inodoro
+bowl "servicio higiénico"
+bowl taza
+bowl "taza del baño"
+bowl "taza del inodoro"
+shower ducha
+rose "cabeza de ducha"
+rose ducha
+bathtub tina
+bathtub "tina de baño"
+dryer secadora
+landing descanso
+landing "escalón de descanso"
+bulb bombillo
+bulb foco
+stool taburete
+glass vidrio
+"trash can" basurero
+"trash can" "bote de basura"
+"trash can" "cesto de basura"
+"trash can" "tarro de basura"
+match fósforo
+peg pinza
+"frame for drying clothes" alambre
+"frame for drying clothes" soga
+"lawn mower" cortacésped
+"lawn mower" "máquina para cortar césped"
+"lawn mower" podadora
+peephole mirilla
+peephole "ojo mágico"
+"door knocker" "argolla para golpear"
+"door knocker" golpeador
+doorknob chapa
+doorknob manilla
+stroller coche
+stroller "coche de bebé"
+stroller cochecito
+stroller "cochecito de bebé"
+deckchair "silla de playa"
+deckchair "silla de sol"
+deckchair "silla playera"
+wrench llave
+wrench "llave de tuercas"
+"monkey wrench" "llave inglesa"
+car auto
+car automóvil
+car carro
+"steering wheel" volante
+"license plate" placa
+fender guardachoque
+headlight faros
+headlight focos
+windsreen parabrisas
+windsreen "vidrio del parabrisas"
+hood capó
+winker direccional
+winker señal
+lock seguro
+"luggage rack" parrilla
+trunk cajuela
+"brake light" "luces de stop"
+"tail light" luces
+fender guardabarros
+fender guardafangos
+fender salpicadera
+tire llanta
+wheel rueda
+van furgoneta
+van camioneta
+jeep todoterreno
+trailer "casa rodante"
+"water wagon" "camión de limpieza"
+"water wagon" tanquero
+bulldozer retroexcavadora
+"concrete mixer truck" "camión de hormigón"
+"concrete mixer truck" "camión mezclador"
+"concrete mixer truck" hormigonera
+"concrete mixer truck" "mezcladora de cemento"
+"dump truck" volqueta
+bus bus
+bus colectivo
+bus bus
+bus flota
+"petrol tank" "tanque de gasolina"
+handlebar volante
+silencer silenciador
+exhaust "tubo de escape"
+minibus buseta
+scooter vespa
+platform andén
+rail carriles
+rail rieles
+tie travesaños
+"booking office" boletería
+"sleeping car" camarote
+"sleeping car" coche-cama
+sidewalk acera
+sidewalk vereda
+"uneven road surface" "chapa acostado"
+"uneven road surface" "policía acostado"
+reception recepción
+stewardess azafata
+hitchhike "pedir dedo"
+"bus stop" parada
+bill boleto
+elevator elevador
+escalator "escalera eléctrica"
+pen pluma
+"mechanical pencil" "lápiz de mina"
+"mechanical pencil" "lápiz mecánico"
+"ball-point pen" esfero
+"ball-point pen" esferográfico
+"ball-point pen" lapicero
+"felt-tipped pen" marcador
+"pencil sharpener" sacapuntas
+stapler engrampadora
+stapler engrapadora
+staple grampas
+staple grapas
+blackboard pizarra
+blackboard pizarrón
+paperweight pisapapeles
+computer computadora
+"rubber band" elástico
+"rubber band" liga
+stamp estampilla
+handle asa
+handle manilla
+slingshot catapulta
+scooter monopatín
+tent carpa
+"sleeping bag" "bolsa de dormir"
+kite cometa
+boat barca
+boat canoa
+"swimming pool" piscina
+lawn césped
+lawn hierba
+"street lamp" farol
+"street lamp" farola
+"street lamp" "poste eléctrico"
+"rubbish bin" basura
+"rubbish bin" basurero
+"rubbish bin" "tarro de basura"
+slide resbaladera
+bench banca
+bench banquito
+"comic book" revista
+"comic book" "tiras cómicas"
+poster afiche
+poster cartel
+poster letrero
+poster rótulo
+"shop window" vitrina
+jukebox rocola
+harmonica armónica
+"hard-boiled egg" "huevo duro"
+"hot dog" "hot dog"
+"hot dog" "perro caliente"
+pancake crep
+pancake pancake
+"sponge cake" pastel
+"sponge cake" torta
+pit pepa
+pit semilla
+packet caja
+packet "caja de cartón"
+"slice of cheese" rodaja
+"slice of cheese" tajada
+"slice of cheese" "tajada de queso"
+"plastic wrap" celofán
+"plastic wrap" "papel  celofán"
+demijohn botella
+demijohn "botella de plástico"
+demijohn "botella grande"
+demijohn galón
+"cigarette butt" colilla
+"cigarette butt" filtro
+"screw-on cap" tapa
+"screw-on cap" "tapa rosca"
+cap corcho
+can envase
+can lata
+can tarro
+"airtight can" bote
+"airtight can" envase
+"airtight can" lata
+"airtight can" tarro
+colander cernidora
+colander colador
+colander espumador
+ladle cucharón
+drainboard cernidor
+turner batidor
+turner espátula
+mixer "batidor de mano"
+mixer batidora
+mixer "batidora de mano"
+filter filtro
+filter "filtro de agua"
+filter "purificador de agua"
+"tea bag" "bolsa de té"
+knifegrinder "afilador de cuchillos"
+knifegrinder "piedra de afilar"
+knifegrinder "piedra esmeril"
+"dinner pail" bote
+"dinner pail" envase
+"dinner pail" "envase con tapa"
+"dinner pail" "envase plástico con tapa"
+"dinner pail" lonchera
+"gas cock" llave
+"gas cock" perilla
+"paella pan" cacerola
+"paella pan" paila
+tray bandeja
+tray charol
+cupboard aparador
+dishcloth "mantel de cocina"
+dishcloth trapo
+dishcloth "trapo de rejilla"
+playpen baranda
+playpen corral
+berth "cama de dos pisos"
+berth "cama litera"
+berth litera
+"shopping cart" "carrito de compras"
+basket canasta
+clasp abrazadera
+clasp agarradera
+washer lavadora
+bobin carrete
+bobin ovillo
+"vacuum cleaner" aspiradora
+needle agujetas
+needle palillos
+cushion almohada
+cushion almohadón
+cushion cojín
+"lace curtain" "cortina de velo"
+stool banquito
+stool "escalera de cocina"
+stool "escalera de mano"
+q-tips cotonete
+q-tips q-tip
+plaster curita
+sling cabestrillo
+sling venda
+attic altillo
+attic ático
+lock aldaba
+toothbrush "cepillo de dientes"
+toothbrush "cepillo dental"
+wardrobe armario
+wardrobe closet
+wardrobe ropero
+bidet bidé
+"parabolic antenna" "antena parabólica"
+"parabolic antenna" "antena satelital"
+"wire netting" malla
+"wire netting" red
+"corrugated iron" "plancha de zinc"
+"corrugated iron" zinc
+"disposable diaper" pañal
+"disposable diaper" "pañal desechable"
+turtleneck "cuello alto"
+"polo collar" cuello
+"polo collar" "cuello de camisa"
+raincoat impermeable
+bolero "chaqueta corta"
+sportshirt "camisa manga corta"
+sportshirt "camiseta con botones"
+sportshirt "camiseta deportiva"
+"round neck" "cuello redondo"
+smock bata
+smock batita
+smock camisilla
+smock mameluco
+"dress coat" esmoquin
+"dress coat" frac
+"dress coat" pingüino
+"dress coat" smoking
+"dressing gown" "salida de cama"
+"dressing gown" "salto de cama"
+suspenders tirantes
+fringe flecos
+"duffle coat" abrigo
+"duffle coat" "chaqueta de invierno"
+"track suit" calentador
+mitten guantes
+mitten mitones
+pochette canguro
+"culotte skirt" "falda pantalón"
+"culotte skirt" faldapantalón
+cuff basta
+"sports shoes" zapatillas
+"sports shoes" "zapatillas de deporte"
+sandal chancletas
+sandal sandalias
+studs pupos
+"athletic shirt" bibidí
+shorts calzón
+shorts calzoncillo
+"panty hose" "media pantalón"
+"panty hose" "medias pantalón"
+apron delantal
+ring anillo
+"contact lens" "lentes de contacto"
+"powder box" "cajita de polvos"
+"powder box" "estuche para polvo"
+"powder box" polvo
+"powder box" "polvo compacto"
+lipstick labial
+lipstick "lápiz de labio"
+lipstick "lápiz de labios"
+lipstick pintalabio
+lipstick pintalabios
+lipstick "pintura de labios"
+rollers bigudíes
+rollers ruleros
+chalk tiza
+diary agenda
+diary "agenda de escritorio"
+"filing cabinet" archivador
+block cuaderno
+block "cuaderno de espiral"
+block "cuaderno espiral"
+pad bloc
+pad cuaderno
+pad "cuaderno de croquis"
+pad "cuaderno de dibujo"
+pad "libreta de dibujo"
+checkbook cheque
+"tape recorder" grabadora
+photocopier copiadora
+photocopier fotocopiadora
+swing columpio
+marbles bolas
+marbles "juego de bolas"
+leapfrog "salto de rana"
+leapfrog "salto de sapito"
+leapfrog "salto de sapo"
+dart dardo
+hoop hula-hula
+skipping "saltar a la soga"
+skipping soga
+"blindman's buff" "gallina ciega"
+"blindman's buff" "gallinita ciega"
+skateboard patineta
+megaphone altavoz
+megaphone altoparlante
+megaphone megafonía
+pinwheel veleta
+"stufffed toy" "muñeca de felpa"
+"stufffed toy" "muñeca de peluche"
+"stufffed toy" "osito de peluche"
+"stufffed toy" peluche
+parachute paracaídas
+parachute parapente
+frisbee frisbee
+"chair lift" funicular
+"chair lift" teleférico
+boxing box
+boxing boxeo
+goal arco
+merry-go-round caballitos
+merry-go-round carrusel
+"video camera" cámara
+"video camera" filmadora
+binoculars largavista
+binoculars binocular
+binoculars gemelos
+convertible "carro convertible"
+convertible descapotable
+air-bag "bolsa de aire"
+"road roller" aplanadora
+road autopista
+road avenida
+road carretera
+"median strip" separador
+"pedestrian overpass" "paso elevado"
+"pedestrian overpass" "paso peatonal"
+"pedestrian overpass" "puente peatonal"
+saddle asiento
+handlebar manubrio
+handlebar volante
+bar bar
+"conveyor belt" "banda de carga"
+"conveyor belt" "banda transportadora"
+can bidón
+can caneca
+can tanque
+dam dique
+dam represa
+"cable car" funicular
+"cable car" teleférico
+"restaurant car" "vagón comedor"
+loudspeaker altavoz
+loudspeaker altoparlante
+horn pito
+toilet baño
+toilet servicio
+bootblack limpiabotas
+bootblack lustrabotas
+bootblack lustrador
+janitor barrendera
+janitor barrendero
+janitor "empleada de limpieza"
+janitor "personal de limpieza"
+"screen door" "malla de alambre"
+directory guía
+"lump of sugar" "cubitos de azúcar"
+"lump of sugar" "terrón de azúcar"
+bankbook libreta
+bankbook tarjeta
+spray atomizador
+spray spray
+rotary redondel
+toothpaste dentífrico
+toothpaste "pasta de dientes"
+toothpaste "pasta dental"
+loudspeaker altavoz
+loudspeaker altoparlante
+blind persiana
+"flower pot" maceta
+"flower pot" macetero
+"flower stand" jardinera
+"flower stand" maceta
+"automatic cashier" "cajero automático"
+"security camera" "cámara de seguridad"
+"security camera" "cámara de vigilancia"
+"portable writing case" "juego de escritorio"
+awning carpa
+awning toldo
+tripod tripié
+tripod trípode
+battery baterías
+battery pilas
+"shopping basket" "canasta de compras"
+"shopping basket" canasto
+wedge tranca
+check-room casillero
+check-room locker
+drain "tapa de alcantarilla"
+drain "tapa del alcantarillado"
+carrycot canguro
+carrycot portabebé
+"maternity dress" maternal
+"maternity dress" "ropa de maternidad"
+number número
+number número
+strecher camilla
+fans aficionados
+fans barra
+fans hinchada
+fans hinchas
+sting aguijón
+food alimento
+food comestible
+raising levantamiento
+raising subida
+"post-office box" apartado
+"post-office box" "apartado postal"
+"post-office box" casilla
+"post-office box" "casilla postal"
+brook arroyo
+brook riachuelo
+murderer asesino
+be "be alta"
+be "be de burro"
+be "be labial"
+"scholarship holder" becado
+slap bofetada
+slap cachetada
+slap chirlazo
+bar café
+bar cafetería
+puff golpe
+puff pitada
+waiter mesero
+"dirty trick" bajeza
+"dirty trick" canallada
+"dirty trick" cochinada
+"dirty trick" fechoría
+"dirty trick" infamia
+"dirty trick" "mala jugada"
+switchboard "central telefónica"
+pig cerdo
+pig chancho
+pig marrano
+pig puerco
+resignation renuncia
+cooking cocinada
+cooking cocinar
+avarice ambición
+avarice avaricia
+avarice codicia
+shell caparazón
+shell carapacho
+shell cascarón
+shell concha
+chat charla
+anger bronca
+anger cólera
+anger coraje
+anger enojo
+anger ira
+anger rabia
+cost costo
+crossing cruce
+slope cuesta
+slope ladera
+slope loma
+slope subida
+bay bahía
+amusement distracción
+amusement diversión
+amusement pasatiempo
+school colegio
+school escuela
+stay estada
+stay estancia
+miss equivocación
+miss error
+miss falla
+financier administrador
+financier "asesor financiero"
+financier financiero
+bangs cerquillo
+"little flower" florcita
+plumber plomero
+stranger extranjero
+stranger forastero
+form formulario
+form solicitud
+"little fire" fueguecito
+"little fire" fueguito
+"little fire" llamita
+rubber caucho
+rubber resina
+hunger hambre
+beauty belleza
+beauty bonito
+beauty hermosura
+beauty lindo
+grass césped
+grass hierba
+grass pasto
+grass yerba
+iron hierro
+concrete hormigón
+hospital hospital
+graduate egresado
+graduate graduado
+graduate licenciado
+degree doctorado
+degree licenciatura
+degree maestría
+degree título
+discount liquidación
+discount ofertas
+discount promoción
+discount rebaja
+call llamada
+whip fuete
+whip látigo
+whip vara
+teacher maestro
+teacher profesor
+weeds maleza
+weeds matorral
+spring manantial
+spring naciente
+spring vertiente
+butter mantequilla
+butter nata
+block manzana
+"rocking chair" mecedora
+cheek cachetes
+cheek mejillas
+peach durazno
+monkey chimpancé
+monkey mico
+monkey mono
+mosquito zancudo
+jackknife navaja
+"wet nurse" nodriza
+worker obrero
+chance ocasión
+chance oportunidad
+"unemployed man" desempleado
+"unemployed man" desocupado
+unemployment desempleo
+seafront malecón
+potato papa
+sponsor auspiciador
+sponsor patrocinador
+toll peaje
+laziness flojera
+laziness pereza
+laziness vagancia
+laziness vaguería
+"little stone" piedrita
+"little legs" piernitas
+apartment apartamento
+apartment departamento
+"small square" placita
+"small square" plazoleta
+banana guineo
+banana plátano
+policeman policía
+dust "nube de polvo"
+dust polvadera
+dust polvareda
+spokesman delegado
+spokesman portavoz
+spokesman representante
+spokesman vocero
+"small village" pueblecito
+"small village" pueblito
+"little door" puertecita
+"little door" puertita
+grade calificación
+grade nota
+grade puntaje
+kerosene querosén
+kerosene querosín
+pickpocket ladrón
+pickpocket ratero
+raid allanamiento
+raid operativo
+relation incumbencia
+relation relación
+repairing reparación
+slip resbalada
+slip resbalón
+rumor chisme
+rumor comentarios
+rumor cotilleos
+rumor habladuría
+rumor rumor
+highlander serrano
+"military service" conscripción
+"military service" "servicio militar"
+hissing chiflido
+hissing silbido
+hissing soplo
+position ubicación
+arrogance "aire de grandeza"
+arrogance "aires de grandeza"
+arrogance arrogancia
+arrogance orgullo
+arrogance pedantería
+arrogance prepotencia
+bribery mordida
+bribery soborno
+"soy bean" soya
+change cambio
+change suelto
+bar bar
+bar cantina
+tidbits "algo para picar"
+tidbits bocadillo
+tidbits bocadito
+earthquake temblor
+earthquake terremoto
+store almacén
+store negocio
+store tienda
+"small store" tiendecita
+"small store" tiendita
+shooting tiroteo
+courage valentía
+courage valor
+breeze vientecito
+breeze vientito
+visa visa
+glance mirada
+glance miradita
+glance ojeada
+glance vistazo
+change cambio
+change vuelto
+walk vueltita
+sharp afilado
+sharp filudo
+"right now" "ahora mismito"
+"right now" "ahora mismo"
+"right now" ahorita
+"right now" enseguida
+"right now" ya
+bitter amargo
+yellowish amarillento
+before antes
+approximately "a eso de"
+approximately "alrededor de"
+approximately aproximadamente
+approximately casi
+approximately como
+approximately "más o menos"
+approximately sobre
+here acá
+here aquí
+risky peligroso
+risky riesgoso
+amazing asombroso
+amazing sorprendente
+"in spite of everything" "a pesar de todo"
+"in spite of everything" "al final"
+"in spite of everything" "así y todo"
+"in spite of everything" "aun así"
+"in spite of everything" "como quiera"
+"in spite of everything" "como sea"
+"in spite of everything" "de todas maneras"
+"in spite of everything" "después de todo"
+"in spite of everything" "y de todas maneras"
+astute astuto
+astute avispado
+astute despierto
+astute listo
+astute pila
+astute vivo
+bluish azulado
+brilliant brillante
+avaricious ambicioso
+avaricious codicioso
+against "en contra"
+"as soon as" apenas
+"as soon as" "en cuanto"
+"as soon as" "tan pronto como"
+"the more" "a mayor"
+"the more" "cuanto más"
+"the more" "entre más"
+"the more" "mientras más"
+under "debajo de"
+thin delgado
+thin flaco
+inside adentro
+inside "por dentro"
+in "dentro de"
+"in my heart" "dentro de mí"
+"in my heart" "por dentro"
+behind "atrás de"
+behind "detrás de"
+"behind me" "atrás de mí"
+"behind me" "atrás mío"
+"behind me" "detrás de mí"
+"behind me" "detrás mío"
+difficult complicado
+difficult difícil
+difficult dificultoso
+difficult fregado
+where ¿dónde?
+where "¿en dónde?"
+"above me" "encima de mí"
+"above me" "encima mío"
+"opposite me" "adelante mío"
+"opposite me" "delante de mí"
+"opposite me" "frente a mí"
+angry bravo
+angry cabreado
+angry caliente
+angry disgustado
+angry enfadado
+angry enojado
+angry fastidiado
+angry furioso
+angry molesto
+often "a menudo"
+often "con frecuencia"
+often frecuentemente
+often regularmente
+often seguido
+"sensitive to the cold" friolento
+outside afuera
+outside "por fuera"
+greasy grasoso
+greasy "llenos de grasa"
+grayish gris
+grayish grisáceo
+grayish plomizo
+grayish plomo
+skillfull "bien pilas"
+skillfull capaz
+skillfull diestro
+skillfull hábil
+skillfull habilidoso
+beautiful agradable
+beautiful bello
+beautiful bonito
+beautiful hermoso
+beautiful lindo
+beautiful precioso
+bony huesudo
+"close to me" "a mi lado"
+"close to me" "al lado mío"
+"close to me" "junto a mí"
+weak débil
+weak liviano
+"in the morning" "de mañana"
+"in the morning" "durante la mañana"
+"in the morning" "en la mañana"
+"in the morning" "por la mañana"
+"at least" "a lo menos"
+"at least" "al menos"
+"at least" "aunque sea"
+"at least" "cuando menos"
+"at least" "por lo menos"
+"at least" siquiera
+filthy cochino
+filthy mugroso
+very bastante
+very bien
+very muy
+little joven
+little niño
+little pequeño
+standing "de pie"
+standing parado
+dusty "con polvo"
+dusty "cubierto de polvo"
+dusty empolvado
+dusty "lleno de polvo"
+dusty polvoriento
+dusty sucio
+perhaps "a lo mejor"
+perhaps "capaz que"
+perhaps derrepente
+perhaps "es posible que"
+perhaps "es probable que"
+perhaps "puede que"
+perhaps "puede ser que"
+perhaps quizá
+perhaps quizás
+perhaps "tal vez"
+fast "de prisa"
+fast pronto
+fast rápido
+next entrante
+next "jueves entrante"
+next "jueves próximo"
+next "jueves que viene"
+next "próximo jueves"
+clear arregladito
+clear arreglado
+clear impecable
+clear limpio
+clear nítido
+clear ordenado
+clear pulcro
+which ¿cuál?
+radiant feliz
+radiant radiante
+radio "de la radio"
+radio "en la radio"
+radio "por la radio"
+recently "ahora no más"
+recently "hace poco"
+recently recientemente
+recently "sólo hasta ahora"
+recently últimamente
+comforting reconfortante
+cold catarro
+cold gripe
+cold resfriado
+cold resfrío
+broken roto
+coarse áspero
+coarse bestia
+coarse brusco
+coarse bruto
+coarse grosero
+coarse "mal educado"
+coarse maleducado
+coarse ordinario
+coarse patán
+coarse tosco
+slant chueco
+slant "de lado"
+slant desalineado
+slant inclinado
+slant torcido
+slant virado
+"in a low voice" bajito
+"in a low voice" despacio
+"in a low voice" despacito
+"in a low voice" "en voz baja"
+"in a low voice" "en voz muy baja"
+act "ejercer  de"
+act "fungir de"
+act "hacer de"
+annoy contrariar
+annoy fastidiar
+annoy fregar
+annoy joder
+annoy jorobar
+arrive llegar
+break "hacer añicos"
+break quebrar
+break romper
+clear "arrancar la mala hierba"
+clear deshierbar
+desorient confundir
+desorient desorientar
+desorient desubicar
+dial marcar
+dismiss botar
+dismiss despedir
+dismiss echar
+drench "hecho sopa"
+drive manejar
+encourage mejorar
+enter "entrar a"
+enter "entrar en"
+escape escaparse
+escape liberarse
+escape librarse
+escape soltarse
+escape zafarse
+"fall in love" encamotarse
+"fall in love" "morirse por"
+fill calzar
+"get excited" alborotar
+"get excited" excitar
+"get ill" enfermarse
+"go into" "penetrar en el"
+gossip chismear
+gossip chismorrear
+gossip chismosear
+gossip comadrear
+gossip murmurar
+graduate "graduarse en"
+graduate "terminar la carrera"
+hurry apurarse
+impress impactar
+impress impresionar
+kidnap raptar
+kill asesinar
+kill matar
+kneel arrodillarse
+kneel hincarse
+lick lamer
+light encender
+light prender
+matter disgustar
+matter enojar
+matter importar
+miss extrañar
+overturn volcarse
+pamper malcriar
+pamper malenseñar
+pamper mimar
+park estacionar
+park parquear
+postpone aplazar
+postpone postergar
+puff absorber
+puff fumar
+pull halar
+pull jalar
+punch "dar un puñetazo"
+punch "dar un puñete"
+punch golpear
+punch pegar
+"put in" "entrar a"
+"put in" "meterse a"
+"put on" ponerse
+repair arreglar
+repair reparar
+require "requerir de"
+return regresar
+search registrar
+seem "nadie me quita de la cabeza que"
+seem "se me hace"
+seem suponer
+"sell at a bargain price" liquidar
+shake sacudir
+shoot disparar
+skin despellejar
+skin "quitar el cuero"
+sponsor auspiciar
+sponsor patrocinar
+"stand up" levantarse
+"stand up" pararse
+"take a short cut" "acortar camino"
+"take off" desvestirse
+"take off" quitarse
+"take off" sacarse
+throw botar
+throw lanzar
+throw tirar
+tie amarrar
+trick "hacer tontos"
+turn doblar
+turn virar
+"turn around" "dar la vuelta"
+turn "dar vuelta"
+turn voltear
+undress desnudarse
+undress desvestirse
+unpack desempacar
+upset "dar pena"
+upset entristecer
+value avaluar
+value cotizar
+watch aguaitar
+watch espiar
+watch mirar
+whistle chiflar
+whistle silbar
+"good student" aplicado
+"good student" cerebro
+"good student" matón
+"poor student" dejado
+"poor student" flojo
+"poor student" vago
+grind matón
+grind tragalibros
+"lazy student" dejado
+"lazy student" despreocupado
+"lazy student" flojo
+"lazy student" vago
+"play truant" "echarse la pera"
+"play truant" "fugarse de clase"
+truant faltón
+"cheat sheet" polla
+cheat copiar
+"whisper the answer" soplar
+"give a failing grade" reprobar
+"call the roll" "pasar la lista"
+"call the roll" "tomar  lista"
+"stop it" "¡Anda a molestar a tu abuela!"
+"stop it" "¡Deja de fregar!"
+"stop it" "¡Deja de joder!"
+"stop it" "¡Deja de molestar!"
+"stop it" ¡Dejá…!
+"stop it" "¡Déjame en paz!"
+"stop it" "¡Estate quieto !"
+"stop it" "¡No jodas!"
+"stop it" "¡No me fastidies más!"
+tell-tale chismoso
+tell-tale sapo
+tell-tale soplón
+flatterer adulón
+flatterer cepillo
+flatterer labioso
+bully bravucón
+bully bronquista
+"bullied child" pendejo
+"popular student" "buena gente"
+"popular student" "buena onda"
+"popular student" chévere
+meek bobo
+meek callado
+meek retraído
+meek shunsho
+meek tímido
+hooligans pandilleros
+hooligans relajosos
+repeater aplazados
+repeater repetidor
+repeater vago
+"close friend" amigazo
+"close friend" "amigo del alma"
+"close friend" brother
+"close friend" pana
+"close friend" yunta
+boss jefe
+pay salario
+tired agotado
+tired cansado
+tired "estar que no puedo más"
+tired muerto
+penniless "en la olla"
+penniless pelado
+penniless quebrado
+penniless "sin medio"
+penniless "sin plata"
+penniless "sin un centavo"
+party farra
+party fiesta
+party "reunión de amigos"
+policeman chapa
+policeman policía
+"patrol car" "carro de la policía"
+"patrol car" patrulla
+"patrol car" patrullero
+"patrol wagon" "carro de policía"
+"patrol wagon" patrullero
+plainclothes-man "de civil"
+prison cana
+prison cárcel
+prison prisión
+cigarette cigarrillo
+cigarette tabaco
+beer biela
+beer chela
+drug droga
+drug marihuana
+drug pepas
+drug polvo
+storm aguacero
+storm tempestad
+"be unfaithfull" "andar con"
+"be unfaithfull" "poner cachos"
+"be unfaithfull" "poner los cuernos"
+horns cachos
+horns cuernos
+contact padrino
+contact palanca
+trouble bronca
+trouble lío
+trouble vaina
+beating cueriza
+beating golpiza
+beating paliza
+"old man" "persona mayor"
+"old man" viejito
+baby bebé
+baby guagua
+baby "niño tierno"
+baby "recién nacido"
+drunken borracho
+drunken chumado
+beat "dar una paliza"
+beat golpear
+beat masacrar
+thin delgado
+thin esquelético
+thin flaco
+thin flacuchento
+fat gordinflón
+fat gordo
+fat guatón
+tall alto
+tall jirafa
+tall poste
+short enano
+short patucho
+short pequeño
+charming alajita
+charming atractiva
+charming "bien bonita"
+charming cueraso
+charming cuerazo
+charming "está buenísma"
+charming guapa
+charming linda
+charming rica
+attractive apuesto
+attractive "buen mozo"
+attractive guapetón
+attractive guapo
+attractive "muy guapo"
+attractive papacito
+attractive pintón
+attractive regio
+"not attractive" feo
+"not attractive" horrible
+bad-smelling apestoso
+bad-smelling cerdo
+bad-smelling hediondo
+head cabeza
+head coco
+head mate
+hair cabello
+hair pelo
+feet patas
+pregnant barrigona
+pregnant embarazada
+pregnant encinta
+pregnant esperando
+pregnant "esperando bebé"
+"very cold" "estar congelado"
+"very cold" "estar helado"
+"very cold" "estarse congelando"
+"very cold" "morirse de frío"
+"very cold" "titiritando de frío"
+competent capaz
+competent capo
+competent pilas
+fool bestia
+fool bobo
+fool bruto
+fool burro
+fool estúpido
+fool gil
+fool imbécil
+fool lelo
+fool lento
+fool pendejo
+fool sonso
+fool tarado
+fool tonto
+fool zonzo
+stranger extranjero
+coarseness grosería
+foolishness bobada
+foolishness estupidez
+foolishness huevada
+foolishness imbecilidad
+foolishness majadería
+foolishness pendejada
+foolishness tontería
+informer chismoso
+informer sapo
+informer soplón
+flatterer cepillos
+flatterer chupamedias
+fluke chiripa
+fluke chiripazo
+fluke suerte
+rich adinerado
+rich "de billete"
+rich "de dinero"
+rich platudo
+rich "podrido en dinero"
+rich rico
+boring odioso
+boring pesado
+lazy dejado
+lazy flojo
+lazy ocioso
+lazy vago
+lazy vagoneta
+poor arrancado
+poor "muerto de hambre"
+poor pelado
+poor pobre
+poor pobretón
+"sexuallly aroused" arrecho
+hello Aló.
+hello ¿Aló?
+hello "¿Con quién hablo?"
+hell! Caramba.
+hell! Mierda.
+hell! Pucha.
+"of course!" "Claro que sí."
+"of course!" Claro.
+"of course!" "Cómo no."
+"of course!" "Por supuesto."
+"of course!" Seguro.
+"isn't it?" "¿No es cierto?"
+"isn't it?" "¿No ve?"
+"isn't it?" ¿No?
+"isn't it?" "¿Sí o no?"
+"isn't it?" ¿Sí?
+"isn't it?" ¿Verdad?
+bye "¡Hasta luego!"
+bye Chao.
+bye "Nos vemos."
+"cannot remember" "Me olvidé."
+"cannot remember" "No me acuerdo."
+"cannot remember" "Se me fue."
+"old boy" amigo
+"old boy" brother
+"old boy" pana
+annoying complicada
+annoying desastre
+annoying dura
+annoying fregado
+"out of order" dañado
+"out of order" descompuesto
+tremendous brillante
+tremendous estupendo
+tremendous excelente
+tremendous extraordinario
+tremendous increíble
+tremendous pilas
+great! ¡Bacán!
+great! ¡Chévere!
+great! "¡Qué alegría!"
+great! "¡Qué bien!"
+great! "¡Qué bueno!"
+great! "¡Qué chévere!"
+"just behind" "atrás de"
+"just behind" "atrasito de"
+"just behind" "detrás de"
+"just behind" "justo detrás"
+apparently "al parecer"
+apparently dizque
+apparently "parece que"
+apparently seguramente
+apparently supuestamente
+"right now" "ahora mismo"
+"right now" "de inmediato"
+"right now" "de una"
+"right now" enseguida
+"right now" rápido
+"right now" volando
+"a lot" cantidad
+"a lot" montón
+"a lot" mucho
+"a lot" banda
+"a lot" bola
+"a lot" caterva
+"a lot" gentío
+"term payment" "a crédito"
+"term payment" "a plazos"
+"term payment" "en cuotas"
+feverish "con calentura"
+feverish "con fiebre"
+feverish "con temperatura"
+sewer alcantarilla
+sewer caño
+stretcher tablas
+"pile up" amontonarse
+"pile up" juntarse
+handle oreja
+pretty atractiva
+pretty bonita
+pretty guapa
+uproar bulla
+uproar griterío
+lock cerradura
+lock chapa
+cord cuerda
+cord piola
+ahead adelante
+ahead "al frente"
+ahead delante
+thread enhebrar
+thread ensartar
+angry bravo
+angry cabreado
+angry caliente
+angry disgustado
+angry enojado
+"well up" diestro
+"well up" experto
+expel botar
+expel despachar
+expel despedir
+fuck acostarse
+fuck "culear [ culiar"
+fuck "hacer el amor"
+fuck "tener sexo"
+talkative hablador
+talkative loro
+obscene degenerado
+obscene indecente
+obscene obsceno
+merchandise mercadería
+merchandise mercancía
+merchandise producto
+knock-kneed chueco
+knock-kneed patichueco
+skin piel
+presentiment corazonada
+presentiment pálpito
+presentiment presentimiento
+resin resina
+quarrel bronca
+quarrel pelea
+quarrel riña
+delay demorar
+delay tardar
+"in vain" "de gusto"
+"in vain" "en balde"
+"in vain" "en vano"
+"in vain" inútilmente
+"in vain" "para nada"
+unfortunate salado
+unfortunate "tener mala suerte"
+spoiled consentido
+spoiled malcriado
+spoiled mimado
+spoiled sobreprotegido
+aperitif aperitivo
+bar bar
+broadcast transmitir
+camper campista
+"cellophane tape" "cinta ""scotch"""
+"center half" centrocampista
+"center half" mediocampista
+chalet "casa de campo"
+chalet quinta
+coffin ataúd
+cook cocinar
+cook hervir
+"country man" campesino
+crane grúa
+"down payment" depósito
+"down payment" entrada
+"driving licence" licencia
+"driving licence" "licencia de conducir"
+"driving licence" "licencia de manejo"
+"fruit cup" "coctel de frutas"
+"fruit cup" "ensalada de frutas"
+"gas station" "bomba (de gasolina"
+"gas station" gasolinera
+interim intervalo
+interview entrevistar
+jogging trotar
+landlady empleada
+landlady "empleada doméstica"
+landlady muchacha
+"long distance call" conferencia
+"long distance call" "llamada de larga distancia"
+"military service" conscripción
+"military service" "servicio militar"
+"move in together" amancebarse
+"move in together" arrejuntarse
+"move in together" "estar amancebados"
+"move in together" "estar en unión libre"
+"move in together" "hacer vida"
+"move in together" "vivir juntos"
+obstinate "cabeza dura"
+obstinate necio
+obstinate testarudo
+peanut maní
+"pick a girl up" levantar
+"play boy" donjuan
+"play boy" mujeriego
+"radio station" emisora
+"radio station" radiodifusora
+right! "¡Así es!"
+right! ¡Exacto!
+scratch arañón
+scratch aruñón
+"shameless person" caradura
+"shameless person" desacarado
+"short cut" atajo
+steal chorear
+steal robar
+sweetener "azúcar de dieta"
+sweetener endulzante
+"take off" despegar
+"television station" canal
+thaw descongelar
+thief ladrón
+thief pillo
+thief ratero
+"vanity case" neceser
+"add fuel to the fire" "echar leña al fuego"
+"add fuel to the fire" "poner leña al fuego"
+"admit one's responsibility" "hacerle frente"
+"attend with efficiency" "estar en todo"
+"attend with efficiency" "estar pendiente"
+"be  deaf as a post" "ser más sordo que una pared"
+"be a cold fish" "ser fresco"
+"be a real chatterbox" "hablar como loro"
+"be a real chatterbox" "hablar hasta por los codos"
+"be a real chatterbox" "hablar por los codos"
+"be angry" "echar chispas"
+"be angry" "estar bravo"
+"be angry" "estar caliente"
+"be angry" "estar que revienta"
+"be as sharp as a needle" "ser avispado"
+"be as sharp as a needle" "ser chispa"
+"be as sharp as a needle" "ser pilas"
+"be as sharp as a needle" "ser vivísimo"
+"be as sharp as a needle" "ser vivo"
+"be born lucky" "nacer con estrella"
+"be born lucky" "nacer con suerte"
+"be broke, penniless" "andar alcanzado"
+"be broke, penniless" "estar chiro"
+"be broke, penniless" "estar en la calle"
+"be broke, penniless" "estar en la olla"
+"be broke, penniless" "estar en las últimas"
+"be careful" "andar con cuidado"
+"be careful" "andar sobre aviso"
+"be careful" "tener cuidado"
+"be daydreaming" "andar en las nubes"
+"be daydreaming" "andar por las nubes"
+"be daydreaming" "estar despistado"
+"be daydreaming" "estar distraído"
+"be daydreaming" "estar en la luna"
+"be daydreaming" "estar en las nubes"
+"be daydreaming" "estar por las nubes"
+"be falling asleep" "caerse de sueño"
+"be falling asleep" "morirse de sueño"
+"be gullible" "ser ingenuo"
+"be gullible" "ser muy crédulo"
+"be hungry" "pasar hambre"
+"be in a mess" "estar desordenado"
+"be in a mess" "estar hecho un desastre"
+"be in a mess" "estar patas arriba"
+"be in a mess" "estar un relajo"
+"be in a state of chaos" "estar en un lío"
+"be in a state of chaos" "parecer merienda de negros"
+"be in one's element" "encontrarse en su elemento"
+"be in one's element" "estar en su ambiente"
+"be informed" "estar al corriente"
+"be informed" "estar al día"
+"be informed" "estar al tanto"
+"be informed" "estar enterado"
+"be inseparable" "comer en un mismo plato"
+"be inseparable" "ser uña y sucio"
+"be left holding the bag" "llevarse un chasco"
+"be left holding the bag" "quedarse con los churos hechos"
+"be left holding the bag" "quedarse plantado"
+"be nothing but skin and bones" "estar hueso y pellejo"
+"be nothing but skin and bones" "estar puro hueso"
+"be obvious" "estar claro"
+"be obvious" "más claro no canta un gallo"
+"be obvious" "saltar a la vista"
+"be on tenterhooks" "estar ansioso"
+"be on tenterhooks" "estar con los nervios de punta"
+"be on tenterhooks" "estar que se come las uñas"
+"be on the safe side" "más vale prevenir que lamentar"
+"be on the safe side" "ser precavido"
+"be outspoken" "no andar con rodeos"
+"be outspoken" "no pensar dos veces en decir algo"
+"be outspoken" "no tener pelos en la lengua"
+"be packed tight" "estar a ""full"""
+"be packed tight" "estar como sardinas en lata"
+"be packed tight" "estar repleto"
+"be plain sailing" "ser pan comido"
+"be plain sailing" "ser sencillo"
+"be plain sailing" "ser súper fácil"
+"be pregnant" "estar encinta"
+"be pregnant" "estar esperando"
+"be pregnant" "estar esperando un bebé"
+"be rolling in money" "estar platudo"
+"be rolling in money" "tener cualquier cantidad de plata"
+"be rolling in money" "vivir como un rey"
+"be stubborn" "ser más terco que una mula"
+"be stubborn" "ser necio"
+"be stubborn" "ser pofiado"
+"be stubborn" "ser terco"
+"be stubborn" "ser testarudo"
+"be the boss" "disponer de todo"
+"be the boss" "hacer y deshacer"
+"be the boss" "llevar las riendas"
+"be the boss" "llevar los pantalones"
+"be the boss" "mandar en la casa"
+"be thick-headed" "ser bruto"
+"be thick-headed" "ser tonto"
+"be thick-headed" "ser un zonzo"
+"be thick-headed" "ser un cabeza hueca"
+"be touchy" "mirame y no me toqués"
+"be touchy" "tener malas pulgas"
+"be touchy" "tener pocas pulgas"
+"be tricky" "ser pilas"
+"be tricky" "ser sabido"
+"be unlucky" "ser salado"
+"be unlucky" "tener mala pata"
+"be unlucky" "tener mala suerte"
+"be up to the ears in debt" "deberle a medio mundo"
+"be up to the ears in debt" "endeudarse hasta las orejas"
+"be up to the ears in debt" "estar ahogado en deudas"
+"be up to the ears in debt" "estar en la lona"
+"be very credulous" "creer en pajaritos"
+"be very credulous" "ser ingenuo"
+"be very credulous" "ser pendejo"
+"be very credulous" "ser tonto"
+"be very stingy" "no dar ni un vaso de agua"
+"be very stingy" "no soltar ni un centavo"
+"be very stingy" "ser coño"
+"be very stingy" "ser más agarrado"
+"be very stingy" "ser muy codo"
+"be very stingy" "ser tacaño"
+"be very stingy" "ser un agarrao"
+"be well-off" "tener plata"
+"be well-off" "vivir bien"
+"beat around the bush" "andar con rodeos"
+"beat around the bush" "salirse por la tangente"
+"boast of being" "hace alarde de ser"
+bother fastidiar
+bother fregar
+bother joder
+bribe "darle mordida"
+bribe "sobarle la mano"
+"burn one's fingers" fallarle
+"burn the midnight oil" matarse
+"burn the midnight oil" "quemarse las pestañas"
+"burst forth into a roar of laughter" "matarse de la risa"
+"burst forth into a roar of laughter" "matarse de risa"
+"burst forth into a roar of laughter" "reírse a carcajada"
+"carry a big stick" "estar bien relacionado"
+"carry a big stick" "tener buenas palancas"
+"carry the can" "cargar con el muerto"
+"carry the can" "pagar los platos rotos"
+"catch someone red-handed" "agarrar con las manos en la masa"
+"catch someone red-handed" "coger con las manos en la masa"
+"catch someone red-handed" pillar
+"cause trouble" "armar lío"
+"cause trouble" "armar relajo"
+"change sides" "cambiar de camiseta"
+"change sides" "cambiarse de camiseta"
+"come into one's mind" "pasar por la mente"
+"come into one's mind" "venirle a la mente"
+"complicate life" "meterse en camisa de once varas"
+"complicate matters" "complicar la vida"
+"cost a fortune" "costar un dineral"
+"cost a fortune" "costar un ojo de la cara"
+"cost a fortune" "costar una millonada"
+"cost a fortune" "valer un ojo de la cara"
+"cost a fortune" "valer un platal"
+"cross one's arm" "cruzarse de brazos"
+"cross one's arm" "estar con los brazos cruzados"
+"cross one's arm" "estar cruzado de brazos"
+"cross one's arm" "quedarse con los brazos cruzados"
+"cross one's arm" "quedarse cruzado de brazos"
+"cry like a baby" "estar hecho un mar de lágrimas"
+"cry like a baby" "llorar a lágrima viva"
+"cry like a baby" "llorar a mares"
+"cry like a baby" "llorar a moco tendido"
+"cuckold somebody" "montar cachos a los maridos"
+"cuckold somebody" "ponerle  cuernos"
+"cuckold somebody" "ponerle los cachos"
+"defend with all one's might" "ponerse como una fiera"
+die "dar el último suspiro"
+die "descansar en paz"
+die fallecer
+die "irse de este mundo"
+die morirse
+die "partir de esta vida"
+dismiss "bortarle del trabajo"
+dismiss despedirle
+dismiss "echar de la empresa"
+dismiss "poner de patas en la calle"
+dismiss "poner de patitas en la calle"
+"dodge the issue" "darle la vuelta"
+"dodge the issue" "hacerse el sordo"
+double-cross "ser dos caras"
+double-cross "ser un falso"
+"earn one's living" "buscarse la vida"
+"earn one's living" "ganarse la vida"
+"eat like a horse" atacarse
+"eat like a horse" "como barriga sin fondo"
+"eat like a horse" hartar
+"eat like a horse" "mejor darle de vestir que darle de comer"
+exaggerate exagerar
+exaggerate "ir demasiado lejos"
+exaggerate "ir muy lejos"
+"fall for it" "caer en el anzuelo"
+"fall for it" "caer en la trampa"
+"fall for it" "morder el anzuelo"
+"fly off at a tangent" "dar vueltas"
+"fly off at a tangent" "estar con rodeos"
+"fly off at a tangent" "hacerse el tonto"
+"foul one's own nest" "escupir al cielo"
+"gather money for a party" "hacer una colecta"
+"gather money for a party" "hacer una vaquita"
+"gather money for a party" "recolectar fondos"
+"get drunk" embriagarse
+"get drunk" "pegarse una borrachera"
+"get into a fine mess" "meterse en camisa de once varas"
+"get into a fine mess" "meterse en enredos"
+"get into a fine mess" "meterse en líos"
+"get it straight from the horse's mouth" "saber de primera mano"
+"get out of the way" "quitar de delante"
+"get out of the way" "quitar de en medio"
+"get out of the way" "quitar de encima"
+"get paunch" "crecer la panza"
+"get paunch" engordarse
+"get paunch" "estar barrigón"
+"get paunch" "estar panzón"
+"get soaked to the skin" empaparse
+"get soaked to the skin" "mojarse hasta los huesos"
+"get soaked to the skin" "quedar hecho sopa"
+"get to the point" "hablar claro"
+"get to the point" "ir al grano"
+"get to the point" "ir directo"
+"get up on the wrong side of the bed" "estar de mal genio"
+"get up on the wrong side of the bed" "levantarse con el hígado revirado"
+"get up on the wrong side of the bed" "levantarse de malas"
+"get up very early" "levantarse con las gallinas"
+"get up very early" madrugar
+"give someone the creeps" "dar miedo"
+"give someone the creeps" "ponérsele los pelos de punta"
+"give up" "botar la toalla"
+"give up" "darse por vencido"
+"give up" rendirse
+"give up" "tirar la toalla"
+"go on the game" "darse a la mala vida"
+"go on the game" "dedicarse a la vida alegre"
+"go on the game" "echarse a perder"
+"go peddle your papers" "mandar a la conchinchina"
+"go peddle your papers" "mandar a la eme"
+"go peddle your papers" "mandar a la mierda"
+"go peddle your papers" "mandar a la porra"
+"go peddle your papers" "mandar a la punta del cerro"
+"go peddle your papers" "mandar al carajo"
+"go peddle your papers" "mandar al diablo"
+"go to enormous expense" "botar la casa por la ventana"
+"go to enormous expense" "echar la casa por la ventana"
+"go to enormous expense" "tirar la casa por la ventana"
+"have a hard time" "sudar la gota gorda"
+"have a hard time" "sudar la gota gruesa"
+"have a hard time" "sudar sangre"
+"have a hard time" "trabajar como negro"
+"have bats in the belfry" "andar mal de la cabeza"
+"have nothing to do with something" "no tener nada que ver"
+"have one's head screwed on right" "no pides favor a nadie"
+"have one's head screwed on right" "ser pilas"
+"have pull" "tener enchufe"
+"have pull" "tener palanca"
+"have serious consequences" "acabar mal"
+"have someone by the neck" "tener agarrado de los huevos"
+"have someone by the neck" "tener pisado el poncho"
+"have the upper hand" "llevar las riendas"
+"have the upper hand" "llevar los pantalones"
+"have the upper hand" "tener voz y voto"
+"have to do with" "tener que ver con"
+"hit the nail on the head" "dar en el clavo"
+"hush up" archivar
+"hush up" "dar fin"
+"keep one's mouth shut" "no abrir la boca"
+"keep one's mouth shut" "no decir ni pío"
+"keep one's mouth shut" "no decir palabra"
+"keep someone in line" "guardar las distancias"
+"keep someone in line" "mantener a raya"
+"kick the bucket" "estirar la pata"
+"kick up a row" "armar tremendo lío"
+"kick up a row" "armar un relajo"
+"kick up a row" "armar una buena"
+"kick up a row" "hacer un relajo"
+"kill hunger" "calmar el hambre"
+"kill hunger" "matar el hambre"
+"kill time" "hacer tiempo"
+"kill two birds with one stone" "matar dos pájaros de un tiro"
+"know where the shoe pinches" "conocer su lado flaco"
+"know where the shoe pinches" "saber de qué pata cojea"
+"know where the shoe pinches" "saber de qué pie cojea"
+"lead a fast life" "andar  de farra"
+"lead a fast life" "andar  de parranda"
+"leave no stone unturned" "hacer hasta lo imposible"
+"leave no stone unturned" "hacer lo imposible"
+"leave no stone unturned" "hacer todo lo posible"
+"leave no stone unturned" "mover cielo y tierra"
+"leave no stone unturned" "mover cielo, mar y tierra"
+"leave no stone unturned" "remover cielo y tierra"
+"live on another" mantenido
+"look out of the corner of one's eye" "mirar con el rabillo del ojo"
+"look out of the corner of one's eye" "mirar con el rabo del ojo"
+"look out of the corner of one's eye" "ver de reojo"
+"loosen one's tongue" "írsele la lengua"
+"loosen one's tongue" "ser lengua larga"
+"loosen one's tongue" "soltar la lengua"
+"loosen one's tongue" "soltarse de la lengua"
+"lose one's mind" calentarse
+"lose one's mind" enloquecer
+"lose one's mind" "perder el juicio"
+"lose one's mind" "perder la cabeza"
+"lose one's mind" "perder la razón"
+"make a mistake" fallar
+"make a mistake" "fallar el tiro"
+"make advances to a woman" conquistar
+"make advances to a woman" "echar los perros"
+"make advances to a woman" levantársela
+"make advances to a woman" "soltarle los perros"
+"make fly off the handle" "sacar de quicio"
+"make fly off the handle" "sacar de sí"
+"make fly off the handle" "sacar de sus cabales"
+"make fly off the handle" "sacar de sus casillas"
+"make great efforts to get something" "romperse el lomo"
+"make great efforts to get something" "sacarse la madre"
+"make great efforts to get something" sacrificarse
+"make great efforts to get something" "sudar la gota gorda"
+"make one mistake after another" "salirle todo mal"
+"make one's way through" "abrir camino"
+"make one's way through" "abrir campo"
+"make one's way through" "abrir paso"
+"make trouble" "meter cizaña"
+"make trouble" "sembrar cizaña"
+"manage to" arreglárselas
+"manage to" "salir adelante"
+miss añorar
+miss "echar de menos"
+miss extrañar
+"not be fit to a candle to" "no estar a la altura de"
+"not be fit to a candle to" "no haber punto de comparación"
+"not to give a damn" "no importar un comino"
+"not to give a damn" "no importarle un pepino"
+"not to give a damn" "no importarle un pito"
+"not to know the first thing" "no saber cuál es su mano derecha"
+"not to know the first thing" "no saber nada"
+"not to know the first thing" "no saber ni donde está parado"
+"not to know which way to turn" "caérsele la cara de vergüenza"
+"not to know which way to turn" "morir de vergüenza"
+"not to know which way to turn" "no saber dónde meterse"
+"not to know which way to turn" "querer que se lo trague la tierra"
+"not to understand a word of it" "no saber ni jota"
+"not to understand a word of it" "no saber ni papa"
+"not to understand a word of it" "no tener ni idea"
+"not to understand a word of it" "no tener ni puta idea"
+"occur very frequently" "cosa de todos los días"
+"occur very frequently" "de lo más normal"
+oppose contradercirle
+oppose "darle la contra"
+oppose "llevarle la contra"
+oppose "llevarle la contraria"
+"out of the frying pan and into the fire" "de mal en peor"
+"out of the frying pan and into the fire" "salir de guatemala y caer en guatepeor"
+"pass by without stopping" "pasar de largo"
+"pass by without stopping" "seguir de largo"
+"pay up" "aflojar la bolsa"
+"play a dirty trick" "hacerle una mala jugada"
+"play a dirty trick" "hacerle una mala pasada"
+"play a dirty trick" "jugarle sucio"
+"prick up one's ears" "afinar el oído"
+"prick up one's ears" "parar la oreja"
+"prick up one's ears" "parar las antenas"
+"prick up one's ears" "parar las orejas"
+"pull a fast one on somebody" "dar gato por liebre"
+"pull a fast one on somebody" "hacer tonto"
+"pull all one's eggs in one basket" "jugarse el todo por el todo"
+"pull all one's eggs in one basket" "jugarse la suerte"
+"pull someone's leg" burlarse
+"pull someone's leg" "estar bromeando"
+"pull someone's leg" "tomarle el pelo"
+"pull someone's leg" vacilar
+"pull the chestnuts out of fire" "sacarle de aprietos"
+"put one's finger on it" "dar en el blanco"
+"put one's finger on it" "poner el dedo en la llaga"
+"put one's foot down" frenarle
+"put one's foot down" "pararle el carro"
+"put one's foot in it" "meter la pata"
+"put someone on the carpet" "darle un sermón"
+"put someone on the carpet" "halar las orejas"
+"put someone on the carpet" reprenderlo
+"put the cart before the horse" "hacer las cosas al revés"
+"put the cart before the horse" "poner el carro delante del caballo"
+"rack one's brains" "darle vueltas a la cabeza"
+"rack one's brains" "partirse la cabeza"
+"rack one's brains" "romperse la cabeza"
+"rain bucketsful" "caer un aguacero"
+"rain bucketsful" "llover a cántaros"
+realize "caer en  cuenta"
+realize "darse cuenta"
+"remain an old maid" "quedarse para vestir santos"
+"remain an old maid" "quedarse solterona"
+"run away" "hacerse humo"
+"run away" largarse
+"run smoothly" "ir de maravilla"
+"run smoothly" "ir viento en popa"
+"run someone down" "mandarlo al diablo"
+"run the risk" "arriesgarlo todo"
+"run the risk" arriesgarse
+"run the risk" "poner toda la carne a la parrilla"
+"say to oneself" "decir entre sí"
+"sell a pig in a poke" "dar gato por liebre"
+"set the table" "poner la mesa"
+"show off" "darse aires"
+"show off" "darse de mucho"
+"show off" "darse importancia"
+"show off" "hacer alarde"
+"show one's true colors" "hacerse ver"
+"show one's true colors" "sacar las uñas"
+"sit on the fence" "estar entre dos aguas"
+"sit on the fence" "no saber a qué carta quedarse"
+"sit on the fence" "no saber qué hacer"
+"sleep on it" "pensarlo bien"
+soft-soap cepillarle
+spy espiar
+spy "seguir la pista"
+"stand someone" "no poder aguantar a alguien"
+"stand someone" "no poder tragar a alguien"
+"stand someone" "no poder ver"
+"stand someone" "no poder ver ni en pintura"
+"stand someone" "no poder ver ni pintado"
+"stand someone" "no poderlo ni ver"
+"stick one's nose in other's business" entrometerse
+"stick one's nose in other's business" "ser metiche"
+"stick one's nose in other's business" "ser metido"
+"suffer from a hangover" "estar chuchaqui"
+"take down a peg, to humble" "bajarle la cresta"
+"take down a peg, to humble" "bajarle los humos"
+"take it lying down" "aguantar lo que venga"
+"take the bull by the horns" "agarrar el toro por los cuernos"
+"take the bull by the horns" "coger el toro por los cuernos"
+"take the intervening day off" "hacer puente"
+"take to one's heels" "correr a toda velocidad"
+"talk turkey" "ander sin rodeos"
+"talk turkey" "hablar claro"
+"talk turkey" "hablar de frente"
+"talk turkey" "llamar al pan, pan y al vino, vino"
+"tod someone's footsteps" "no dejar ni a sol ni a sombra"
+"tod someone's footsteps" "no dejar ni respirar"
+"trap someone" "poner trabas"
+"trap someone" "ponerle en jaque"
+"try one's luck" "probar la suerte"
+"try to get blood from a turnip" "bajar cielo y tierra"
+"try to get blood from a turnip" "pedir la luna"
+"turn a blind eye" "hacer la vista gorda"
+"turn a blind eye" "hacerse como si nada"
+"turn a blind eye" "hacerse de la vista gorda"
+"turn a blind eye" "hacerse el bobo"
+"turn a blind eye" "hacerse el de la vista gorda"
+"turn a blind eye" "hacerse el disimulado"
+"turn a blind eye" "hacerse el tonto"
+"turn a deaf ear" "hacerse el desentendido"
+"turn a deaf ear" "hacerse el gil"
+"turn a deaf ear" "hacerse el loco"
+"turn a deaf ear" "hacerse el sordo"
+"turn a deaf ear" "hacerse el tonto"
+"turn one's back on someone" "darle la espalda"
+"turn out contrary to expectations" "dar la vuelta la tortilla"
+"turn out contrary to expectations" "darse vuelta la tortilla"
+"turn something to one's advantage" aprovecharse
+"turn something to one's advantage" "buscar su propio beneficio"
+"wed after the woman has become pregnant" "casarse de apuro"
+"wed after the woman has become pregnant" "casarse obligado"
+wink guiñar
+wink "hacerle ojitos"
+"wrap someone around one's little finger" "tenerles comprados"
+"wrap someone around one's little finger" "tenerles ganados"
+"shrink back" achicar
+"shrink back" achicarse
+"shrink back" acobardarse
+"shrink back" ahuevar
+fight pelear
+"eat too much" atiborrarse
+"eat too much" atracarse
+"eat too much" hartarse
+"eat too much" llenarse
+"get angry" cabrearse
+"get angry" enfadarse
+"get angry" enojarse
+"get angry" "ponerse bravo"
+"get angry" "ponerse furioso"
+junk cacharros
+junk cachivaches
+junk chatarra
+junk chécheres
+junk chucherías
+drizzle llovizna
+pseudo-rifined cursi
+pseudo-rifined ordinario
+sad acabado
+sad acongojado
+sad afligido
+sad apenado
+sad deprimido
+sad entristecido
+sad triste
+sleep cabecear
+sleep "cerrársele los ojos"
+sleep dormir
+sleep dormirse
+sleep "quedarse dormido"
+vulture buitre
+vulture gallinazo
+football fútbol
+forward delantero
+"goal scorer" goleador
+"center half" centrocampista
+"center half" mediocampista
+"center half" volante
+fullback defensa
+goalkeeper arquero
+goalkeeper guardameta
+goalkeeper portero
+cheeks cachetes
+cheeks mejillas
+"adam's apple" güergüero
+"adam's apple" manzana
