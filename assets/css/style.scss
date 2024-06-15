@@ -10,12 +10,16 @@ header {
 }
 
 header li {
-  width:142px;
+  width:165px;
   font-size: 16px;
+  margin-bottom: 10px;
+  padding: 10px;
 }
+
 header p {
   line-height: 1.3em;
 }
+
 img {
   border: none;
   margin-bottom: 10px;
@@ -23,6 +27,97 @@ img {
   padding-bottom: 1px;
 }
 
+table {
+  border: none;
+  border-collapse: collapse;
+  margin-bottom: 32px;
+  text-align: left;
+  font-size: 19px;
+ }
+
+#dataDownload {
+  text-align: right;
+}
+
+#dataTrainDownload {
+  max-width: 60%;
+}
+
+tr:nth-child(n) { 
+   border-top: solid  #fff; 
+   border-bottom: solid  #fff; 
+}
+th {
+  text-align: center;
+  background-color: #e3ead4;
+  background-color: #f0eeeb;
+  color:#232323;
+  border-right: none;
+  font-size: 19px;
+ }
+td {
+  background-color: #fffcf1;
+  color:#232323;
+  line-height: 1em;
+ }
+td:nth-child(1) {
+  text-align: left;
+ }
+td:nth-child(2) {
+  text-align: center;
+ }
+.ressalta {
+  background-color: #fafde5; /*greenish*/
+  background-color: #fefde8;
+} 
+.column2cols {
+  float: left;
+}
+
+.left {
+  width: 65%;
+}
+
+.right {
+  width: 35%;
+}
+
+/* Clear floats after the columns */
+.row2cols:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: 0px solid #555;
+  margin-top: 20px;
+}
+.imageBorder {
+  border-width: 20px;
+  border-color: Black; 
+}
+
+.caption {
+  max-width: 90%;
+  line-height: 1.1em;
+  font-size: 17px;
+  text-align: center;
+  margin-left: 5%;
+}
+
+.citeAPA {
+  line-height: 1.2em;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+code, pre {
+  line-height: 1.5em;
+}
+ 
 .wrapper {
   width:1280px;
 }
@@ -32,14 +127,15 @@ section{
 
 }
 body {
-  font-size: 20px;
+  font-size: 19px;
   line-height: 1.5em;
 }
 
 footer {
   font-size: 16px;
   line-height: 1.4em;
- }
+}
+  
 
 @media print, screen and (max-width: 1280px) {
 
@@ -54,11 +150,11 @@ footer {
     width:auto;
   }
 
-	footer {
-		border-top: 1px solid #ccc;
-		margin:0 84px 0 50px;
-		padding:0;
-	}
+  footer {
+     border-top: 1px solid #ccc;
+     margin:0 84px 0 50px;
+	padding:0;
+  }
 
   header {
     padding-right:320px;
@@ -69,6 +165,11 @@ footer {
     margin:0 0 20px;
   }
 
+@media screen and (max-width: 800px) {
+  .column {
+    width: 100%;
+  }
+}
   header a small {
     display:inline;
   }
