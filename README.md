@@ -1,6 +1,6 @@
 # CEREAL
 
-# Work in progess!
+# Work in progress!
 
 <p>Spanish is one of the most widespread languages: the official language in 20 countries
 and the second most-spoken native language. Its contact with other languages across dif-
