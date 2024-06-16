@@ -17,7 +17,7 @@ layout: default
 <br>
 ## CEREAL & CEREALex {#intro}
 
-<p> CEREAL is a Spanish document-level corpus extracted from <a href="https://oscar-project.org">OSCAR</a> with documents classified according to their country of origin. It covers 24 countries where Spanish is widely spoken. The base corpus, <strong>CEREAL</strong>&ndash;Corpus del Español REAL, contains 13.5 million documents with gold annotations, where the country of origin has been extracted from the information available in the URL of the document. The extended corpus, <strong>CEREALex</strong>, contains 28 million of additional documents with silver annotations, where the country of origin has been automatically assigned using docTransformer, our document-level classifier. 
+<p> CEREAL is a Spanish document-level corpus extracted from <a href="https://oscar-project.org">OSCAR</a> with documents classified according to their country of origin. It covers 24 countries where Spanish is widely spoken. The base corpus, <strong>CEREAL</strong>&ndash;Corpus del Español REAL, contains 13.5 million documents with gold annotations, where the country of origin has been extracted from the information available in the URL of the document. The extended corpus, <strong>CEREALex</strong>, contains 28 million of additional documents with silver annotations, where the country of origin has been automatically assigned using <a href="https://github.com/cristinae/docTransformer">docTransformer, our document-level classifier</a>. 
 Following OSCAR, we provide our annotations with <a href="https://creativecommons.org/public-domain/cc0/">CCO license</a>, but we do not hold the copyright of the content text which comes from <a href="https://oscar-project.org/#license">OSCAR</a> and therefore from <a href="https://commoncrawl.org">Common Crawl</a>.
 </p>
 
@@ -382,7 +382,7 @@ The link to the word embeddings built with the sentence-level corpora is also ad
 </table>
 
 
-Those interested in replicating our experiments and resulting models to produce CEREALex can download the corpora used for training the 3-class, 4-class and 5-class classifier.
+Those interested in replicating <a href="https://aclanthology.org/2024.naacl-long.204/">our experiments and resulting models</a> to produce CEREALex can download the corpora used for training the 3-class, 4-class and 5-class classifier.
 
 <table id=dataTrainDownload>
 <thead>
@@ -440,7 +440,7 @@ Visit the Github repositories containing the code for the [document level classi
 Please, use the following entries when citing this research work.
 
 <div class="citeAPA">
-[1] Cristina España-Bonet and Alberto Barrón-Cedeño. Elote, Choclo and Mazorca: on the Varieties of Spanish. <em>In proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’24)</em>. Mexico City, Mexico, June 2024.
+[1] Cristina España-Bonet and Alberto Barrón-Cedeño. <a href="https://aclanthology.org/2024.naacl-long.204/">Elote, Choclo and Mazorca: on the Varieties of Spanish.</a> <em>In proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’24)</em>. Mexico City, Mexico, June 2024.
 </div>
 
 ```
