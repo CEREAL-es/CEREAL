@@ -43,7 +43,7 @@ As the example in Figure 2 shows, there is indeed a difference in the preference
 </div>
 
 <br>
-Lexicon might have big differences in different Spanish-speaking countries. For instance, <em>elote</em>, <em>choclo</em> and <em>mazorca</em>  all mean "corn" in different regions. The word itself has a different usage, being much more frequent in America than in Europe. As Figure 3 shows, in the Mexican embedding space elote appears close to dishes where it is an essential ingredient (e.g., tamales and esquites) but also close to other vegetables (e.g., chiles and calabaza). In the Chilean embedding space, choclo appears surrounded by other vegetables only. This behaviour makes the topology of the embedding spaces different <a href="#citations">\[2\]</a> and therefore relevant for NLP tasks such as bilingual lexicon induction \[1\].
+Lexicon might have big differences in different Spanish-speaking countries. For instance, <em>elote</em>, <em>choclo</em> and <em>mazorca</em>  all mean "corn" in different regions. The word itself has a different usage, being much more frequent in America than in Europe. As Figure 3 shows, in the Mexican embedding space elote appears close to dishes where it is an essential ingredient (e.g., tamales and esquites) but also close to other vegetables (e.g., chiles and calabaza). In the Chilean embedding space, choclo appears surrounded by other vegetables only. This behaviour makes the topology of the embedding spaces different <a href="#citations">\[2\]</a> and therefore relevant for NLP tasks such as bilingual lexicon induction <a href="#citations">\[1\]</a>.
 
 <p align="center"> 
 Mexico: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -56,7 +56,7 @@ Spain: <br>
    <p width="90%"> <b>Figure 3.</b> t-SNE projection of the embedding spaces. The Spanish words equivalent to the English "corn" differ across countries and also do the neighbouring words and their position.</p> </div>
 </p>
 
-As example, we induce the VARILEX word dictionaries using VecMap on CEREAL embeddings [1]: <br>
+As example of the importance, we induce the VARILEX word dictionaries using VecMap on CEREAL embeddings [1]: <br>
 <div class="row2cols">
   <div class="column2cols left">
   <p align="center"><img src="img/accsBLIbigEX_oscar.png"  width="400"  alt="Accuracy on BLI" title="Accuracy on BLI"></p>
@@ -462,7 +462,7 @@ Please, use the following entries when citing this research work.
 ```
 
 <div class="citeAPA">
-[2] Cristina España-Bonet, Ankur Bhatt, Koel Dutta Chowdhury and Alberto Barrón-Cedeño. [When Elote, Choclo and Mazorca are not the Same.  <a href="https:/aclanthology.org/2024.vardial-1.5/">Isomorphism-Based Perspective to the Spanish Varieties Divergences</a>. <em> In proceedings of the Eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial’24)</em>. Mexico City, Mexico, June 2024./
+[2] Cristina España-Bonet, Ankur Bhatt, Koel Dutta Chowdhury and Alberto Barrón-Cedeño. <a href="https:/aclanthology.org/2024.vardial-1.5/">When Elote, Choclo and Mazorca are not the Same. Isomorphism-Based Perspective to the Spanish Varieties Divergences</a>. <em> In proceedings of the Eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial’24)</em>. Mexico City, Mexico, June 2024.
 </div>
 
 ```
@@ -488,4 +488,3 @@ Please, use the following entries when citing this research work.
 }
 
 ```
-
