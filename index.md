@@ -43,7 +43,7 @@ As the example in Figure 2 shows, there is indeed a difference in the preference
 </div>
 
 <br>
-Lexicon might have big differences in different Spanish-speaking countries. For instance, <em>elote</em>, <em>choclo</em> and <em>mazorca</em>  all mean "corn" in different regions. The word itself has a different usage, being much more frequent in America than in Europe. As Figure 3 shows, in the Mexican embedding space elote appears close to dishes where it is an essential ingredient (e.g., tamales and esquites) but also close to other vegetables (e.g., chiles and calabaza). In the Chilean embedding space, choclo appears surrounded by other vegetables only. This behaviour makes the topology of the embedding spaces different \[2\] and therefore relevant for NLP tasks such as bilingual lexicon induction \[1\].
+Lexicon might have big differences in different Spanish-speaking countries. For instance, <em>elote</em>, <em>choclo</em> and <em>mazorca</em>  all mean "corn" in different regions. The word itself has a different usage, being much more frequent in America than in Europe. As Figure 3 shows, in the Mexican embedding space elote appears close to dishes where it is an essential ingredient (e.g., tamales and esquites) but also close to other vegetables (e.g., chiles and calabaza). In the Chilean embedding space, choclo appears surrounded by other vegetables only. This behaviour makes the topology of the embedding spaces different <a href="#citations">\[2\]</a> and therefore relevant for NLP tasks such as bilingual lexicon induction \[1\].
 
 <p align="center"> 
 Mexico: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -440,7 +440,7 @@ Visit the Github repositories containing the code for the [document level classi
 Please, use the following entries when citing this research work.
 
 <div class="citeAPA">
-[1] Cristina España-Bonet and Alberto Barrón-Cedeño. [Elote, Choclo and Mazorca: on the Varieties of Spanish](https://aclanthology.org/2024.naacl-long.204/). <em>In proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’24)</em>. Mexico City, Mexico, June 2024.
+[1] Cristina España-Bonet and Alberto Barrón-Cedeño. <a href="https://aclanthology.org/2024.naacl-long.204/">Elote, Choclo and Mazorca: on the Varieties of Spanish</a>. <em>In proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’24)</em>. Mexico City, Mexico, June 2024.
 </div>
 
 ```
@@ -457,12 +457,12 @@ Please, use the following entries when citing this research work.
     address = "Mexico City, Mexico",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2024.naacl-long.204",
-    pages = "3689--3711"}
+    pages = "3689--3711"
 }
 ```
 
 <div class="citeAPA">
-[2] Cristina España-Bonet, Ankur Bhatt, Koel Dutta Chowdhury and Alberto Barrón-Cedeño. [When Elote, Choclo and Mazorca are not the Same. Isomorphism-Based Perspective to the Spanish Varieties Divergences](https://aclanthology.org/2024.vardial-1.5/). <em> In proceedings of the Eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial’24)</em>. Mexico City, Mexico, June 2024.
+[2] Cristina España-Bonet, Ankur Bhatt, Koel Dutta Chowdhury and Alberto Barrón-Cedeño. [When Elote, Choclo and Mazorca are not the Same.  <a href="https:/aclanthology.org/2024.vardial-1.5/">Isomorphism-Based Perspective to the Spanish Varieties Divergences</a>. <em> In proceedings of the Eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial’24)</em>. Mexico City, Mexico, June 2024./
 </div>
 
 ```
