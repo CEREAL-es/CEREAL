@@ -89,7 +89,7 @@ The topology of the embedding spaces is different enough so that distances betwe
 ## Download the data {#data}
 
 The table shows the statistics (number of documents and unique sentences per language) for CEREAL and CEREALex. 
-All country-specific datasets are <a href="https://zenodo.org/records/11387864/">available through  Zenodo</a>. Click on the red numbers to download the collections for different language varieties at the document and the sentence level.
+All country-specific datasets are <a href="https://zenodo.org/records/11387864">available through  Zenodo</a>. Click on the red numbers to download the collections for different language varieties at the document and the sentence level.
 The link to the word embeddings built with the sentence-level corpora is also added with their vocabulary. Notice that the embeddings are estimated after cleaning the sentence-level corpus which is provided only after deduplication and in alphabetical order without any cleaning.
 
 <table id=dataDownload>
@@ -440,38 +440,52 @@ Visit the Github repositories containing the code for the [document level classi
 Please, use the following entries when citing this research work.
 
 <div class="citeAPA">
-[1] Cristina España-Bonet and Alberto Barrón-Cedeño. Elote, Choclo and Mazorca: on the Varieties of Spanish. <em>In proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’24)</em>. Mexico City, Mexico, June 2024.
+[1] Cristina España-Bonet and Alberto Barrón-Cedeño. [Elote, Choclo and Mazorca: on the Varieties of Spanish](https://aclanthology.org/2024.naacl-long.204/). <em>In proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’24)</em>. Mexico City, Mexico, June 2024.
 </div>
 
 ```
-@InProceedings{espana-bonet-barron-cedeno-2024,
-    title = "Elote, Choclo and Mazorca: on the Varieties of Spanish",
-    author = "Espa{\~n}a-Bonet, Cristina  and  Barr{\'o}n-Cede{\~n}o, Alberto",
-    booktitle = "Proceedings of the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)",
+@InProceedings{espana-bonet-barron-cedeno-2024-elote-naacl,
+    title = "Elote, Choclo and Mazorca: on the Varieties of {S}panish",
+    author = "Espa{\~n}a-Bonet, Cristina  and
+      Barr{\'o}n-Cede{\~n}o, Alberto",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
     month = jun,
     year = "2024",
     address = "Mexico City, Mexico",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/",
-    pages = "--"
+    url = "https://aclanthology.org/2024.naacl-long.204",
+    pages = "3689--3711"}
 }
 ```
 
 <div class="citeAPA">
-[2] Cristina España-Bonet, Ankur Bhatt, Koel Dutta Chowdhury and Alberto Barrón-Cedeño. When Elote, Choclo and Mazorca are not the Same. Isomorphism-Based Perspective to the Spanish Varieties Divergences. <em> In proceedings of the Eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial’24)</em>. Mexico City, Mexico, June 2024.
+[2] Cristina España-Bonet, Ankur Bhatt, Koel Dutta Chowdhury and Alberto Barrón-Cedeño. [When Elote, Choclo and Mazorca are not the Same. Isomorphism-Based Perspective to the Spanish Varieties Divergences](https://aclanthology.org/2024.vardial-1.5/). <em> In proceedings of the Eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial’24)</em>. Mexico City, Mexico, June 2024.
 </div>
 
 ```
-@InProceedings{espana-bonet-et-al-2024,
-    title = " When Elote, Choclo and Mazorca are not the Same. Isomorphism-based Perspective to the Spanish Varieties Divergences ",
-    author = "Espa{\~n}a-Bonet, Cristina and Bhatt, Ankur and Dutta Chowdhury, Koel and Barr{\'o}n-Cede{\~n}o, Alberto",
-    booktitle = "Proceedings of the eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial)",
+@inproceedings{espana-bonet-etal-2024-elote,
+    title = "When Elote, Choclo and Mazorca are not the Same. Isomorphism-Based Perspective to the {S}panish Varieties Divergences",
+    author = "Espa{\~n}a-Bonet, Cristina  and
+      Bhatt, Ankur  and
+      Dutta Chowdhury, Koel  and
+      Barr{\'o}n-Cede{\~n}o, Alberto",
+    editor = {Scherrer, Yves  and
+      Jauhiainen, Tommi  and
+      Ljube{\v{s}}i{\'c}, Nikola  and
+      Zampieri, Marcos  and
+      Nakov, Preslav  and
+      Tiedemann, J{\"o}rg},
+    booktitle = "Proceedings of the Eleventh Workshop on NLP for Similar Languages, Varieties, and Dialects (VarDial 2024)",
     month = jun,
     year = "2024",
     address = "Mexico City, Mexico",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/",
-    pages = "--"
+    url = "https://aclanthology.org/2024.vardial-1.5",
+    pages = "56--77"
 }
+
 ```
 
