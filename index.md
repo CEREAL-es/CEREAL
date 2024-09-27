@@ -423,7 +423,7 @@ The table above links to the word embedding models per country and configuration
 <br>
 ## Download the additional resources {#resources}
 
-We collect [CA-WEAT1 and CA-WEAT2]() lists from volunteers in Bolivia, Colombia, Cuba, Ecuador, Mexico and Spain. These lists are used in [1] to quantify human biases in CEREAL embeddings.
+We collect [CA-WEAT1 and CA-WEAT2](https://github.com/cristinae/CA-WEAT/blob/main/data/CA-WEATv2_es.json) lists from volunteers in Bolivia, Colombia, Cuba, Ecuador, Mexico and Spain. These lists are used in [1] to quantify human biases in CEREAL embeddings.
 
 We adapt the [VARILEX-R bilingual lexicons](https://h-ueda.sakura.ne.jp/varilex-r/) for English paired to 21 Spanish varieties. We provide a subset of entries both at the [phrase](data/dictionaries/varilexPhrase.tar) and at the [word](data/dictionaries/varilexWord.tar) level. This resource is used in [1] for the bilingual lexicon induction experiments.
 
