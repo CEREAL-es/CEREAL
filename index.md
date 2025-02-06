@@ -5,6 +5,12 @@
 layout: default
 ---
 
+## News!
+<p>[01.2025] <a href="https://zenodo.org/records/14771240"><strong>CEREALv2</strong></a> is out. This version is extracted from <a href="https://huggingface.co/datasets/oscar-corpus/colossal-oscar-1.0">Colossal OSCAR</a> and contains almost 10 times more data than v1, 1TB of Spanish texts with annotation for country of origin. </p>
+
+<p>[01.2025] Data from the Basque Country (.eus), Catalonia (.cat) and Galicia (.gal) has been added to enlarge the amount of texts written in the Spanish spoken in the Iberian Peninsula.  </p>
+
+<br>
 # Elote, Choclo and Mazorca: on the Varieties of Spanish
 
 <p>Spanish is one of the most widespread languages in the world: it is an <a href="https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_Spanish_is_an_official_language">official language in 20 countries</a> and the <a href="https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers">second most-spoken native language</a>. Its contact with different coexistent languages and the rich regional and cultural diversity has produced varieties which divert from each other at different extents. Still, available corpora, and the models trained upon them, generally treat Spanish as one monolithic language, which dampers prediction and generation power when dealing with different varieties. CEREAL aims at alleviating the situation by making available documents from the Web with annotations for 24 countries of origin.</p>
@@ -88,9 +94,11 @@ The topology of the embedding spaces is different enough so that distances betwe
 <br>
 ## Download the data {#data}
 
-The table shows the statistics (number of documents and unique sentences per language) for CEREAL and CEREALex. 
+<strong>Note:</strong> Download CEREALv2 from <a href="https://zenodo.org/records/14771240">Zenodo</a>. The links below correspond to CEREALv1 and are kept here to reproduce the results of the papers [1,2].
+
+<p>The table shows the statistics (number of documents and unique sentences per language) for CEREAL and CEREALex. 
 All country-specific datasets are <a href="https://zenodo.org/records/11387864">available through  Zenodo</a>. Click on the red numbers to download the collections for different language varieties at the document and the sentence level.
-The link to the word embeddings built with the sentence-level corpora is also added with their vocabulary. Notice that the embeddings are estimated after cleaning the sentence-level corpus which is provided only after deduplication and in alphabetical order without any cleaning.
+The link to the word embeddings built with the sentence-level corpora is also added with their vocabulary. Notice that the embeddings are estimated after cleaning the sentence-level corpus which is provided only after deduplication and in alphabetical order without any cleaning.</p>
 
 <table id=dataDownload>
 <thead>
@@ -462,7 +470,7 @@ Please, use the following entries when citing this research work.
 ```
 
 <div class="citeAPA">
-[2] Cristina España-Bonet, Ankur Bhatt, Koel Dutta Chowdhury and Alberto Barrón-Cedeño. <a href="https:/aclanthology.org/2024.vardial-1.5/">When Elote, Choclo and Mazorca are not the Same. Isomorphism-Based Perspective to the Spanish Varieties Divergences</a>. <em> In proceedings of the Eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial’24)</em>. Mexico City, Mexico, June 2024.
+[2] Cristina España-Bonet, Ankur Bhatt, Koel Dutta Chowdhury and Alberto Barrón-Cedeño. <a href="https://aclanthology.org/2024.vardial-1.5/">When Elote, Choclo and Mazorca are not the Same. Isomorphism-Based Perspective to the Spanish Varieties Divergences</a>. <em> In proceedings of the Eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial’24)</em>. Mexico City, Mexico, June 2024.
 </div>
 
 ```
