@@ -5,10 +5,10 @@
 layout: default
 ---
 
-## News!
-<p>[01.2025] <a href="https://zenodo.org/records/14771240"><strong>CEREALv2</strong></a> is out. This version is extracted from <a href="https://huggingface.co/datasets/oscar-corpus/colossal-oscar-1.0">Colossal OSCAR</a> and contains almost 10 times more data than v1, 1TB of Spanish texts with annotation for country of origin. </p>
+# News!
+<p><strong>[01.2025]</strong>&emsp; <a href="https://zenodo.org/records/14771240"><strong>CEREALv2</strong></a> is out. This version is extracted from <a href="https://huggingface.co/datasets/oscar-corpus/colossal-oscar-1.0">Colossal OSCAR</a> and contains almost 10 times more data than v1, 1TB of Spanish texts with annotations for country of origin. </p>
 
-<p>[01.2025] Data from the Basque Country (.eus), Catalonia (.cat) and Galicia (.gal) has been added to enlarge the amount of texts written in the Spanish spoken in the Iberian Peninsula.  </p>
+<p><strong>[01.2025]</strong>&emsp; Data from the Basque Country (.eus), Catalonia (.cat) and Galicia (.gal) has been added to enlarge the amount of texts written in the Spanish spoken in the Iberian Peninsula.  </p>
 
 <br>
 # Elote, Choclo and Mazorca: on the Varieties of Spanish
@@ -94,7 +94,7 @@ The topology of the embedding spaces is different enough so that distances betwe
 <br>
 ## Download the data {#data}
 
-<strong>Note:</strong> Download CEREALv2 from <a href="https://zenodo.org/records/14771240">Zenodo</a>. The links below correspond to CEREALv1 and are kept here to reproduce the results of the papers [1,2].
+<strong>Note: Download CEREALv2 from <a href="https://zenodo.org/records/14771240">Zenodo</a>. The links below correspond to CEREALv1 and are kept here to reproduce the results of the papers [1,2].</strong>
 
 <p>The table shows the statistics (number of documents and unique sentences per language) for CEREAL and CEREALex. 
 All country-specific datasets are <a href="https://zenodo.org/records/11387864">available through  Zenodo</a>. Click on the red numbers to download the collections for different language varieties at the document and the sentence level.
