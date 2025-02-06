@@ -1,0 +1,81 @@
+bonet@login2:/netscratch/cristinae/oscar/colossal/01/03-15/es_meta$ wc -wl es_meta.*
+        19       7243 es_meta.ad
+    547169  250992009 es_meta.ar
+      7095    3995861 es_meta.bo
+      7796    3091368 es_meta.cat
+    336082  149178072 es_meta.cl
+     71607   66803961 es_meta.co
+      5566    3530296 es_meta.cr
+      8840    9932203 es_meta.cu
+      9378    9869353 es_meta.do
+     15791   12026557 es_meta.ec
+    932046  442723726 es_meta.es
+      4596    1623392 es_meta.eus
+        22       8841 es_meta.gal
+         0          0 es_meta.gq
+      3496    2223085 es_meta.gt
+      5874    4404523 es_meta.hn
+    495704  308376935 es_meta.mx
+      2056    2183996 es_meta.ni
+      2262    1560941 es_meta.pa
+     47913   46910601 es_meta.pe
+        18      21244 es_meta.ph
+      1610    1020488 es_meta.pr
+      6681    4656085 es_meta.py
+      2888    2471715 es_meta.sv
+     13856    8341161 es_meta.us
+     19332   16050022 es_meta.uy
+    255126   74777834 es_meta.ve
+   2802823 1426781512 total
+
+        18       7071 es_meta.uniq.2015_03.ad
+    255327  230162406 es_meta.uniq.2015_03.ar
+      5943    3753980 es_meta.uniq.2015_03.bo
+    125721  129156142 es_meta.uniq.2015_03.cl
+     55220   60966771 es_meta.uniq.2015_03.co
+      4575    2960307 es_meta.uniq.2015_03.cr
+      6515    9703614 es_meta.uniq.2015_03.cu
+      7787    8930437 es_meta.uniq.2015_03.do
+     14021   11403539 es_meta.uniq.2015_03.ec
+    497329  384801566 es_meta.uniq.2015_03.es
+         0          0 es_meta.uniq.2015_03.gq
+      2946    2053439 es_meta.uniq.2015_03.gt
+      5126    3834798 es_meta.uniq.2015_03.hn
+    304909  284656866 es_meta.uniq.2015_03.mx
+      1746    2120355 es_meta.uniq.2015_03.ni
+      1831    1466608 es_meta.uniq.2015_03.pa
+     40988   44089925 es_meta.uniq.2015_03.pe
+        12      20626 es_meta.uniq.2015_03.ph
+      1295     964080 es_meta.uniq.2015_03.pr
+      5692    4007759 es_meta.uniq.2015_03.py
+      2441    2384897 es_meta.uniq.2015_03.sv
+     10454    6460218 es_meta.uniq.2015_03.us
+     17770   15555247 es_meta.uniq.2015_03.uy
+     73497   66669046 es_meta.uniq.2015_03.ve
+      3237    1436118 es_meta.uniq.2015_03.eus
+      6201    2664666 es_meta.uniq.2015_03.cat
+        21       8838 es_meta.uniq.2015_03.gal
+   1450622 1280239319 total
+
+
+    1230613  1117752626 es_meta_part_1.jsonl.unk
+    1231720  1118760551 es_meta_part_2.jsonl.unk
+    1226345  1121187398 es_meta_part_3.jsonl.unk
+    1223822  1118843771 es_meta_part_4.jsonl.unk
+    1231404  1119740497 es_meta_part_5.jsonl.unk
+    1225732  1117859792 es_meta_part_6.jsonl.unk
+     176337   159442117 es_meta_part_7.jsonl.unk
+    7545973  6873586752 total
+
+    1003678 es_meta.uniq.1.unk
+    1003827 es_meta.uniq.2.unk
+    1000537 es_meta.uniq.3.unk
+     997706 es_meta.uniq.4.unk
+    1004335 es_meta.uniq.5.unk
+     999560 es_meta.uniq.6.unk
+     152640 es_meta.uniq.7.unk
+    6162283 total
+
+    6162283  6247542276 es_meta.uniq.unk
+    5596384  5778578946 es_meta.uniq.2015_03.unk
+
