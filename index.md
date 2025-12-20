@@ -451,7 +451,6 @@ Please, use the following entries when citing this research work.
 
 <div class="citeAPA">
 [1] Cristina España-Bonet and Alberto Barrón-Cedeño. <a href="https://aclanthology.org/2024.naacl-long.204/">Elote, Choclo and Mazorca: on the Varieties of Spanish.</a> <em>In proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’24)</em>. Mexico City, Mexico, June 2024.
-[1] Cristina España-Bonet and Alberto Barrón-Cedeño. <a href="https://aclanthology.org/2024.naacl-long.204/">Elote, Choclo and Mazorca: on the Varieties of Spanish</a>. <em>In proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’24)</em>. Mexico City, Mexico, June 2024.
 </div>
 
 ```
