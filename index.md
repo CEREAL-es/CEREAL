@@ -6,6 +6,8 @@ layout: default
 ---
 
 # News!
+<p><strong>[12.2025]</strong>&emsp; We release <a href="https://zenodo.org/records/17996190"><strong>TUBERCLE</strong></a>, a Catalan document-level corpus obtained with the same methodology as CEREAL. </p>
+
 <p><strong>[01.2025]</strong>&emsp; <a href="https://zenodo.org/records/14771240"><strong>CEREALv2</strong></a> is out. This version is extracted from <a href="https://huggingface.co/datasets/oscar-corpus/colossal-oscar-1.0">Colossal OSCAR</a> and contains almost 10 times more data than v1, 1TB of Spanish texts with annotations for country of origin. </p>
 
 <p><strong>[01.2025]</strong>&emsp; Data from the Basque Country (.eus), Catalonia (.cat) and Galicia (.gal) has been added to enlarge the amount of texts written in the Spanish spoken in the Iberian Peninsula.  </p>
