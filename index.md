@@ -5,6 +5,12 @@
 layout: default
 ---
 
+# News!
+<p><strong>[01.2025]</strong>&emsp; <a href="https://zenodo.org/records/14771240"><strong>CEREALv2</strong></a> is out. This version is extracted from <a href="https://huggingface.co/datasets/oscar-corpus/colossal-oscar-1.0">Colossal OSCAR</a> and contains almost 10 times more data than v1, 1TB of Spanish texts with annotations for country of origin. </p>
+
+<p><strong>[01.2025]</strong>&emsp; Data from the Basque Country (.eus), Catalonia (.cat) and Galicia (.gal) has been added to enlarge the amount of texts written in the Spanish spoken in the Iberian Peninsula.  </p>
+
+<br>
 # Elote, Choclo and Mazorca: on the Varieties of Spanish
 
 <p>Spanish is one of the most widespread languages in the world: it is an <a href="https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_Spanish_is_an_official_language">official language in 20 countries</a> and the <a href="https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers">second most-spoken native language</a>. Its contact with different coexistent languages and the rich regional and cultural diversity has produced varieties which divert from each other at different extents. Still, available corpora, and the models trained upon them, generally treat Spanish as one monolithic language, which dampers prediction and generation power when dealing with different varieties. CEREAL aims at alleviating the situation by making available documents from the Web with annotations for 24 countries of origin.</p>
@@ -43,7 +49,7 @@ As the example in Figure 2 shows, there is indeed a difference in the preference
 </div>
 
 <br>
-Lexicon might have big differences in different Spanish-speaking countries. For instance, <em>elote</em>, <em>choclo</em> and <em>mazorca</em>  all mean "corn" in different regions. The word itself has a different usage, being much more frequent in America than in Europe. As Figure 3 shows, in the Mexican embedding space elote appears close to dishes where it is an essential ingredient (e.g., tamales and esquites) but also close to other vegetables (e.g., chiles and calabaza). In the Chilean embedding space, choclo appears surrounded by other vegetables only. This behaviour makes the topology of the embedding spaces different \[2\] and therefore relevant for NLP tasks such as bilingual lexicon induction \[1\].
+Lexicon might have big differences in different Spanish-speaking countries. For instance, <em>elote</em>, <em>choclo</em> and <em>mazorca</em>  all mean "corn" in different regions. The word itself has a different usage, being much more frequent in America than in Europe. As Figure 3 shows, in the Mexican embedding space elote appears close to dishes where it is an essential ingredient (e.g., tamales and esquites) but also close to other vegetables (e.g., chiles and calabaza). In the Chilean embedding space, choclo appears surrounded by other vegetables only. This behaviour makes the topology of the embedding spaces different <a href="#citations">\[2\]</a> and therefore relevant for NLP tasks such as bilingual lexicon induction <a href="#citations">\[1\]</a>.
 
 <p align="center"> 
 Mexico: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -56,7 +62,7 @@ Spain: <br>
    <p width="90%"> <b>Figure 3.</b> t-SNE projection of the embedding spaces. The Spanish words equivalent to the English "corn" differ across countries and also do the neighbouring words and their position.</p> </div>
 </p>
 
-As example, we induce the VARILEX word dictionaries using VecMap on CEREAL embeddings [1]: <br>
+As example of the importance, we induce the VARILEX word dictionaries using VecMap on CEREAL embeddings [1]: <br>
 <div class="row2cols">
   <div class="column2cols left">
   <p align="center"><img src="img/accsBLIbigEX_oscar.png"  width="400"  alt="Accuracy on BLI" title="Accuracy on BLI"></p>
@@ -88,9 +94,11 @@ The topology of the embedding spaces is different enough so that distances betwe
 <br>
 ## Download the data {#data}
 
-The table shows the statistics (number of documents and unique sentences per language) for CEREAL and CEREALex. 
-All country-specific datasets are <a href="https://zenodo.org/records/11387864/">available through  Zenodo</a>. Click on the red numbers to download the collections for different language varieties at the document and the sentence level.
-The link to the word embeddings built with the sentence-level corpora is also added with their vocabulary. Notice that the embeddings are estimated after cleaning the sentence-level corpus which is provided only after deduplication and in alphabetical order without any cleaning.
+<strong>Note: Download CEREALv2 from <a href="https://zenodo.org/records/14771240">Zenodo</a>. The links below correspond to CEREALv1 and are kept here to reproduce the results of the papers [1,2].</strong>
+
+<p>The table shows the statistics (number of documents and unique sentences per language) for CEREAL and CEREALex. 
+All country-specific datasets are <a href="https://zenodo.org/records/11387864">available through  Zenodo</a>. Click on the red numbers to download the collections for different language varieties at the document and the sentence level.
+The link to the word embeddings built with the sentence-level corpora is also added with their vocabulary. Notice that the embeddings are estimated after cleaning the sentence-level corpus which is provided only after deduplication and in alphabetical order without any cleaning.</p>
 
 <table id=dataDownload>
 <thead>
@@ -423,7 +431,7 @@ The table above links to the word embedding models per country and configuration
 <br>
 ## Download the additional resources {#resources}
 
-We collect [CA-WEAT1 and CA-WEAT2]() lists from volunteers in Bolivia, Colombia, Cuba, Ecuador, Mexico and Spain. These lists are used in [1] to quantify human biases in CEREAL embeddings.
+We collect [CA-WEAT1 and CA-WEAT2](https://github.com/cristinae/CA-WEAT/blob/main/data/CA-WEATv2_es.json) lists from volunteers in Bolivia, Colombia, Cuba, Ecuador, Mexico and Spain. These lists are used in [1] to quantify human biases in CEREAL embeddings.
 
 We adapt the [VARILEX-R bilingual lexicons](https://h-ueda.sakura.ne.jp/varilex-r/) for English paired to 21 Spanish varieties. We provide a subset of entries both at the [phrase](data/dictionaries/varilexPhrase.tar) and at the [word](data/dictionaries/varilexWord.tar) level. This resource is used in [1] for the bilingual lexicon induction experiments.
 
@@ -441,37 +449,51 @@ Please, use the following entries when citing this research work.
 
 <div class="citeAPA">
 [1] Cristina España-Bonet and Alberto Barrón-Cedeño. <a href="https://aclanthology.org/2024.naacl-long.204/">Elote, Choclo and Mazorca: on the Varieties of Spanish.</a> <em>In proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’24)</em>. Mexico City, Mexico, June 2024.
+[1] Cristina España-Bonet and Alberto Barrón-Cedeño. <a href="https://aclanthology.org/2024.naacl-long.204/">Elote, Choclo and Mazorca: on the Varieties of Spanish</a>. <em>In proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL’24)</em>. Mexico City, Mexico, June 2024.
 </div>
 
 ```
-@InProceedings{espana-bonet-barron-cedeno-2024,
-    title = "Elote, Choclo and Mazorca: on the Varieties of Spanish",
-    author = "Espa{\~n}a-Bonet, Cristina  and  Barr{\'o}n-Cede{\~n}o, Alberto",
-    booktitle = "Proceedings of the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)",
+@InProceedings{espana-bonet-barron-cedeno-2024-elote-naacl,
+    title = "Elote, Choclo and Mazorca: on the Varieties of {S}panish",
+    author = "Espa{\~n}a-Bonet, Cristina  and
+      Barr{\'o}n-Cede{\~n}o, Alberto",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
     month = jun,
     year = "2024",
     address = "Mexico City, Mexico",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/",
-    pages = "--"
+    url = "https://aclanthology.org/2024.naacl-long.204",
+    pages = "3689--3711"
 }
 ```
 
 <div class="citeAPA">
-[2] Cristina España-Bonet, Ankur Bhatt, Koel Dutta Chowdhury and Alberto Barrón-Cedeño. When Elote, Choclo and Mazorca are not the Same. Isomorphism-Based Perspective to the Spanish Varieties Divergences. <em> In proceedings of the Eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial’24)</em>. Mexico City, Mexico, June 2024.
+[2] Cristina España-Bonet, Ankur Bhatt, Koel Dutta Chowdhury and Alberto Barrón-Cedeño. <a href="https://aclanthology.org/2024.vardial-1.5/">When Elote, Choclo and Mazorca are not the Same. Isomorphism-Based Perspective to the Spanish Varieties Divergences</a>. <em> In proceedings of the Eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial’24)</em>. Mexico City, Mexico, June 2024.
 </div>
 
 ```
-@InProceedings{espana-bonet-et-al-2024,
-    title = " When Elote, Choclo and Mazorca are not the Same. Isomorphism-based Perspective to the Spanish Varieties Divergences ",
-    author = "Espa{\~n}a-Bonet, Cristina and Bhatt, Ankur and Dutta Chowdhury, Koel and Barr{\'o}n-Cede{\~n}o, Alberto",
-    booktitle = "Proceedings of the eleventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial)",
+@inproceedings{espana-bonet-etal-2024-elote,
+    title = "When Elote, Choclo and Mazorca are not the Same. Isomorphism-Based Perspective to the {S}panish Varieties Divergences",
+    author = "Espa{\~n}a-Bonet, Cristina  and
+      Bhatt, Ankur  and
+      Dutta Chowdhury, Koel  and
+      Barr{\'o}n-Cede{\~n}o, Alberto",
+    editor = {Scherrer, Yves  and
+      Jauhiainen, Tommi  and
+      Ljube{\v{s}}i{\'c}, Nikola  and
+      Zampieri, Marcos  and
+      Nakov, Preslav  and
+      Tiedemann, J{\"o}rg},
+    booktitle = "Proceedings of the Eleventh Workshop on NLP for Similar Languages, Varieties, and Dialects (VarDial 2024)",
     month = jun,
     year = "2024",
     address = "Mexico City, Mexico",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/",
-    pages = "--"
+    url = "https://aclanthology.org/2024.vardial-1.5",
+    pages = "56--77"
 }
-```
 
+```
